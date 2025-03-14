@@ -1,4 +1,4 @@
-clone the project by using the github link -- 
+clone the project by using the github link -- https://github.com/sharadvamsi/shoppyglobe.git
 now navigate to project folder using command cd shoppyglobe
 now to install dependencies run command npm install
 now to run project use command npm run dev
